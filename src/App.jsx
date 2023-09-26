@@ -12,7 +12,7 @@ function App() {
       toTest[i] === 'D' ? result += 500 : 
       toTest[i] === 'M' ? result += 1000 : result += 0;
     }
-    return result;
+     return result;
   }
 
   return (
